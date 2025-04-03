@@ -16,7 +16,8 @@ I’m eager to collaborate on:
 - Any opportunity to learn and grow as a developer  
 
 ### 📫 Let's Connect!  
-Feel free to reach out to me via email: **harshsingh7133@gmail.com**  
+Feel free to reach out to me via email: **harshsingh7133@gmail.com** 
+or you can contact me via my LinkedIn : https://www.linkedin.com/in/harsh-singh-272927299
 
 ### 🏆 My Holopin Badges  
 [![An image of @harshfr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshfr)](https://holopin.io/@harshfr)

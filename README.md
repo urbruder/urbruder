@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me  
 I am an Electronics and Communication Engineering (ECE) student </br>
-My focus lies in **web development** and contributing to the vibrant **open-source** community. </br 
+My focus lies in **web development** and contributing to the vibrant **open-source** community. </br>
 
 
 ## 🌐 Socials:

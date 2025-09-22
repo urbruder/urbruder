@@ -13,7 +13,7 @@ My focus lies in **web development** and contributing to the vibrant **open-sour
 # Overview:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urbruder&theme=aura)
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=urbruder&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=urbruder&theme=dark&hide_border=false) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=urbruder&theme=aura)
 
 
 ---

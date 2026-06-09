@@ -19,6 +19,10 @@ I aim to contribute to the developer community and would love to collaborate on 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=urbruder&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 

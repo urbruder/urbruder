@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harsh Singh  
 
 ### 👨‍💻 About Me  
-I am a 3rd-year ECE major with a strong interest in web development. </br>
+I am a final year ECE major with a strong interest in web development. </br>
 Currently, I am actively working in full-stack **web development** and enjoy creating scalable and impactful applications. Looking ahead, I aspire to learn Machine Learning and Artificial Intelligence </br>
 I aim to contribute to the developer community and would love to collaborate on real-world projects that solve meaningful problems.</br>
 

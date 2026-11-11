@@ -10,7 +10,7 @@ I aim to contribute to the developer community and would love to collaborate on 
 
 Worked across AI engineering, backend development, and automation, building and maintaining end-to-end systems for job applications, AI-powered platforms, and business workflows.
 
-**Job Application Orchestration Engine:** Built, extended, and optimized an existing n8n job orchestration workflow that takes applications from job apply links through resume tailoring and multi-step application submission. Added automation stages, integrated RenderCV for JD-specific CV generation, improved ATS match scores from approximately 47% to 90%+, and supported workflows across 11+ ATS platforms.
++ **Job Application Orchestration Engine:** Built, extended, and optimized an existing n8n job orchestration workflow that takes applications from job apply links through resume tailoring and multi-step application submission. Added automation stages, integrated RenderCV for JD-specific CV generation, improved ATS match scores from approximately 47% to 90%+, and supported workflows across 11+ ATS platforms.
 
 **Client Workflow Management:** Worked directly with clients to maintain and troubleshoot job-application automation workflows, resolve recurring execution failures, fix API and integration issues, and keep end-to-end workflows operational.
 

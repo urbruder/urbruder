@@ -14,7 +14,7 @@ Worked across AI engineering, backend development, and automation, building and 
 
 + **Client Workflow Management:** Worked directly with clients to maintain and troubleshoot job-application automation workflows, resolve recurring execution failures, fix API and integration issues, and keep end-to-end workflows operational.
 
-+ **InterviewSearch.com Migration:** Contributed to the migration of InterviewSearch.com, handling platform transition tasks including CDN configuration, CNAME/DNS updates, cache purging, and .htaccess rules.
++ **InterviewSurge.com Migration:** Contributed to the migration of InterviewSurge.com, handling platform transition tasks including CDN configuration, CNAME/DNS updates, cache purging, and .htaccess rules.
 
 + **JobLiftz.com — Project Lead:** Led the development of JobLiftz, owning its end-to-end architecture, building frontend components and REST APIs, and developing a job board for curated jobs from multiple job posting portals.
 
